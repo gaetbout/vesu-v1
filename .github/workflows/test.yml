@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: software-mansion/setup-scarb@v1
+      - uses: software-mansion/setup-scarb@v1.5.0
 
       - uses: foundry-rs/setup-snfoundry@v4
 
